@@ -1,8 +1,9 @@
 # Handwritten-digit-recognition
 Neural Net to recognize handwritten digits from the MNIST database 
 
-This neural network has been implemented from scratch, and allows up to 98.5% accuracy on the MNIST database.
-It is implemented in C#, and the source code is available in the "SourceCode" folder.
+<strong>This neural network has been implemented from scratch, and allows up to 98.5% accuracy on the MNIST database.
+It is implemented in C#, and demonstrates the efficiency of neural networks for image recognition.</strong>
+
 
 *** Running the algorithm ***
 - Open "SourceCode/NeuralNetProject"
